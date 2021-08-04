@@ -46,7 +46,8 @@ h3 {
 }
 
 .carousel-caption h2 {
-  color: #fff;
+  /* color: #fff; */
+  color: black;
 }
 
 .carousel img {
